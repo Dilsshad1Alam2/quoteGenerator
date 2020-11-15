@@ -54,6 +54,11 @@ section {
   background: #3f3d56;
 }
 
+.btn:active{
+  transform: scale(0.9)
+}
+
+
 .btn-flex {
   justify-content: space-around;
 }
