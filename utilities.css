@@ -1,0 +1,47 @@
+/* Utility Classes */
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .p-1 {
+    padding: 1rem;
+  }
+  .p-2 {
+    padding: 2rem;
+  }
+  .p-3 {
+    padding: 3rem;
+  }
+  
+  .px-1 {
+    padding: 0 1rem;
+  }
+  .px-2 {
+    padding: 0 2rem;
+  }
+  .px-3 {
+    padding: 0 3rem;
+  }
+  
+  .m-1 {
+    margin: 1rem;
+  }
+  .m-2 {
+    margin: 2rem;
+  }
+  .m-3 {
+    margin: 3rem;
+  }
+  
+  .my-1 {
+    margin: 0 1rem;
+  }
+  .my-2 {
+    margin: 0 2rem;
+  }
+  .my-3 {
+    margin: 0 3rem;
+  }
