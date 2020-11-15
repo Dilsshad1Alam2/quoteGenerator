@@ -63,7 +63,7 @@ section {
   justify-content: space-around;
 }
 
-.quote-author {
+.author-text{
   font-size: 1rem;
   text-align: right;
   padding-right: 3rem;
